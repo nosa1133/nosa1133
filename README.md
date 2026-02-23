@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Nosa 👋
 
-<!--
-**nosa1133/nosa1133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst | Python Developer | FlutterFlow Developer
 
-Here are some ideas to get you started:
+I am passionate about technology, data, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Currently learning **Data Analysis, Python, and Excel**
+* 📱 Building mobile apps using **FlutterFlow**
+* 💻 Creating projects and sharing my learning journey
+* 🎯 Goal: Become a professional **Data Analyst** and **Freelancer**
+
+---
+
+## 🛠 Skills
+
+* Python 🐍
+* Excel 📊
+* FlutterFlow 📱
+* Git & GitHub
+* Problem Solving
+
+---
+
+## 🌍 Languages
+
+* Arabic — Native
+* English — Professional
+* Italian — Professional
+* Russian — Professional
+
+---
+
+## 📂 My Projects
+
+* even_numbers.py → Print even numbers using Python
+* sum_numbers.py → Calculate sum of a list
+* More projects coming soon...
+
+---
+
+## 📈 Currently Learning
+
+* Data Analysis
+* Excel for Data Analysis
+* Python Projects
+* Automation
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/nosa1133
+
+---
+
+⭐ I am building my skills step by step to become a professional Data Analyst.
