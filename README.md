@@ -1,40 +1,41 @@
 # Hi, I'm Nosa 👋
 
-## 🚀 Aspiring Data Analyst | Python Developer | FlutterFlow Developer
-
-I am passionate about technology, data, and building real-world projects.
-
-* 📊 Currently learning **Data Analysis, Python, and Excel**
-* 📱 Building mobile apps using **FlutterFlow**
-* 💻 Creating projects and sharing my learning journey
-* 🎯 Goal: Become a professional **Data Analyst** and **Freelancer**
+🎯 **Aspiring Data Analyst | Python Developer | FlutterFlow Developer**
 
 ---
 
-## 🛠 Skills
+## 🚀 About Me
 
-* Python 🐍
-* Excel 📊
-* FlutterFlow 📱
-* Git & GitHub
-* Problem Solving
+* 📊 Learning **Data Analysis, Python, and Excel**
+* 📱 Building mobile apps using **FlutterFlow**
+* 💻 Creating real-world projects
+* 🌍 Multilingual Developer
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
 ## 🌍 Languages
 
-* Arabic — Native
-* English — Professional
-* Italian — Professional
-* Russian — Professional
+* 🇪🇬 Arabic — Native
+* 🇺🇸 English — Professional
+* 🇮🇹 Italian — Professional
+* 🇷🇺 Russian — Professional
 
 ---
 
-## 📂 My Projects
+## 📂 Featured Projects
 
-* even_numbers.py → Print even numbers using Python
-* sum_numbers.py → Calculate sum of a list
-* More projects coming soon...
+* 🔢 even_numbers.py
+* ➕ sum_numbers.py
+* 📊 More coming soon...
 
 ---
 
@@ -42,15 +43,27 @@ I am passionate about technology, data, and building real-world projects.
 
 * Data Analysis
 * Excel for Data Analysis
-* Python Projects
-* Automation
+* Python Automation
+* Building Freelance Projects
 
 ---
 
-## 📫 Contact Me
+## 🎯 Career Goal
 
-* GitHub: https://github.com/nosa1133
+Become a **Professional Data Analyst** and build a strong **Freelance Career**
 
 ---
 
-⭐ I am building my skills step by step to become a professional Data Analyst.
+## ⭐ GitHub Stats
+
+![Nosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosa1133\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+💼 GitHub: https://github.com/nosa1133
+
+---
+
+⭐ *Always learning. Always improving.*
